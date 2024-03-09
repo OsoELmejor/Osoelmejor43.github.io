@@ -1,0 +1,78 @@
+*{ padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    text-align: center;
+    margin: 100px 10px 10px 10px;
+}
+
+.contenedor{
+    border: solid black;
+    margin-bottom: 100px 100px 10px 10px;
+    border-radius: 400px;
+    width: 100%;
+    height: 210px;
+    background-image: url(https://imgs.search.brave.com/PqTSLlgyybaUGNy9TJEwIoc6IUZCrK_k1qbPiZlIMJM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvYW5pbWUtZGJ0/MThxamI3YjFjc3Ry/MS5qcGc);
+    
+}
+
+.Comunidad-button{
+      font-size: 20px;
+      border-radius: 0px 20px 0px 20px;
+      background-color: rgb(255, 252, 252);
+      margin-left:100px;
+      margin-top: -100px;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+
+.instagram-button{
+    background-color: blanchedalmond;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 300px;
+}
+
+.instagram-button img{
+    width: 100px; /* Ancho deseado */
+    height: 100px; /* Altura automática para mantener la proporción */
+    vertical-align: middle; /* Alinea verticalmente la imagen */
+    margin-right: 5px;
+}
+
+
+
+.rectangulo{
+           background-color: rgb(0, 0, 0);
+           height: 10px;
+           width: 100%;
+           margin-top: 10%;
+           text-align: left;
+           
+}
+
+.rectangulo-contenedor{
+           height: 100% ;
+           
+}
+
+
+.Lana{
+    border: solid black 10px;
+    border-radius: 100px;
+    width: 400%;
+    height: 400%;
+    
+}
+
